@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naman-GG
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Machine Learninf
+- 🌱 I’m currently learning Machine Learning
 
 <!---
 Naman-GG/Naman-GG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
