@@ -1,18 +1,14 @@
 # Hi, I'm Naman 👋
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Machine Learning** and **Web Development**.
-- 💼 I’m looking for opportunities to work as a **Software Developer**.
-- 🔭 I’m working on life.
-- 🌍 I'm based in Uttarakhand.
+- 🌱 3rd Year BTech Computer Science Student. 
+- 💼 Competent in Web Development and Machine Learning
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C++, JavaScript
-- **Tools**: Git, LaTeX
+- **Languages**: Python, C++, JavaScript, HTML, CSS
+- **Tools**: Version Control (Git, Github)
 - **Databases**: MySQL, MongoDB
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naman-GG&show_icons=true&hide_title=true)
+- **Frameworks**: Scikit-learn, PyTorch, React.js, Django
 
 ## 📬 Get in Touch
 - LinkedIn: [namangupta2202](https://www.linkedin.com/in/namangupta2202)
