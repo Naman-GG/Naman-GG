@@ -12,5 +12,5 @@
 
 ## 📬 Get in Touch
 - LinkedIn: [namangupta2202](https://www.linkedin.com/in/namangupta2202)
-- Twitter: [@Naman_onX](https://twitter.com/Naman_onX)
+- Twitter: [@newwmon](https://twitter.com/newwmon)
 - Email: [namangupta.2202@gmail.com](mailto:namangupta.2202@gmail.com)
