@@ -1,4 +1,3 @@
-### Naman
 
 AI engineer, final year CSE UG student — i build the system around the model. retrieval, agents, orchestration, evals.
 
