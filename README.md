@@ -1,5 +1,3 @@
-### Naman
-
 AI engineer, final year CSE UG student — i build the system around the model. retrieval, agents, orchestration, evals.
 
 a few builds so far: a Graph-RAG project manager, a collaborative editor with a sync engine i wrote myself, and a scoring model i caught overclaiming and rewrote around that. they're in the repos below.
